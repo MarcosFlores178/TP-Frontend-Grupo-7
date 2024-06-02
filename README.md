@@ -11,3 +11,9 @@
 ![GitHub License](https://img.shields.io/github/license/MarcosFlores178/TP-Frontend-Grupo-7)
 
 </div>
+
+<h2>Integrantes:</h2>
+<p>FLORES Marcos Fabian</p>
+<p>TOMCZAK Julian Santiago</p>
+<p>BENEDETTI Claudio</p>
+<p>FARRE Joaquin Alejandro</p>
